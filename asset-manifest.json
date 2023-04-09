@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Nuna_paper/static/css/main.fe489d7d.css",
+    "main.js": "/React_Nuna_paper/static/js/main.5e6c0267.js",
+    "static/js/787.6a72a53c.chunk.js": "/React_Nuna_paper/static/js/787.6a72a53c.chunk.js",
+    "index.html": "/React_Nuna_paper/index.html",
+    "main.fe489d7d.css.map": "/React_Nuna_paper/static/css/main.fe489d7d.css.map",
+    "main.5e6c0267.js.map": "/React_Nuna_paper/static/js/main.5e6c0267.js.map",
+    "787.6a72a53c.chunk.js.map": "/React_Nuna_paper/static/js/787.6a72a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe489d7d.css",
+    "static/js/main.5e6c0267.js"
+  ]
+}
