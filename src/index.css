@@ -1,0 +1,64 @@
+@import url(reset.css);
+
+.root-wrap{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.header-container{
+  background-color: rgb(13,37,65);
+}
+
+.header-wrap{
+  height: 64px;
+  max-width:1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+.header-left-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.header-left-wrap ul{
+  display: flex;
+}
+.header-left-wrap ul li{margin-right: 14px;
+padding: 8px;}
+.header-nav-item{
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+.page-container{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 32px 0;
+}
+/* .page-container>div:first-child{
+  margin: 64px 0;
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+.page-container>div:nth-child(2){
+  font-size: 32px;
+  line-height: 1.6;
+}
+.page-container>div:last-child{
+  font-size: 32px;
+  line-height: 1.6;
+  color: red;
+  cursor: pointer;
+} */
+
+.movie-container{
+  background-color: #fff;
+}
